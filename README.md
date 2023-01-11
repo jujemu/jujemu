@@ -15,7 +15,7 @@
   <li>2017. 3. ~ 2023. 2. KwangWon Univercity Electronics</li>
   <li>2022. 4. ~ 2022. 9. Aiffel deep learning bootcamp</li>
   <li>2022. 5. ~ 2022. 6. Datathon OTT data analysis, team(3) project </li>
-  <li>2022. 7. ResNet implementation based on paper</li>
-  <li>22년 8월 12일 ~ 22년 9월 27일 Aiffelthon, StyleGan2로 디자인 예측 모델 구현</li>
-  <li>22년 9월 19일 ~ 22년 10월 7일 KW AI Hackathon 은상, 팀프로젝트 3명 리더</li>
-  <li>22년 11월 16일 ~ 22년 12월 16일 캡스톤설계, SELD 구현 </li>
+  <li>2022. 8. ~ 2022. 9. Aiffelthon, using StyleGan2, next season prediction model</li>
+  <li>2022. 9. ~ 2022. 10. KW AI Hackathon 2nd prize, team(3) project, leader</li>
+  <li>2022. 11. ~ 2022. 12. Capstone, Sound Event Localization and Detection implementaion</li>
+ </ul>
