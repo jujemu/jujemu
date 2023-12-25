@@ -1,6 +1,7 @@
 <div>
 <h3>Tech Blog</h3>
-<a href="https://velog.io/@jujemu"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+  <a href="https://jujemu.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=Swift&logoColor=white"></a>
+  <a href="https://velog.io/@jujemu"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 
 <p>
   <h3>My stack</h3>
@@ -18,4 +19,5 @@
   <li>2022. 8. ~ 2022. 9. Aiffelthon, using StyleGan2, next season prediction model</li>
   <li>2022. 9. ~ 2022. 10. KW AI Hackathon 2nd prize, team(3) project, leader</li>
   <li>2022. 11. ~ 2022. 12. Capstone, Sound Event Localization and Detection implementaion</li>
+  <li>2023. 4. ~ 2023. 11. SOMA 14th</li>
  </ul>
