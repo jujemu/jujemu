@@ -5,11 +5,12 @@
 
 <p>
   <h3>My stack</h3>
-  <img src="https://camo.githubusercontent.com/1764183bbafa7706e1a6ef9d703f3e85db377094d158a50ffcd42ee4f2099e35/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465">
-  <img src="https://camo.githubusercontent.com/bc562412c99f666d8c2f62485201afe06dec01a60e4a2879a350197dcfb7acc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465">
-  <img src="https://camo.githubusercontent.com/b184cf7adbab9f5464e80c0f5dd32c85393f6248499a57d743e619f4214391c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465">
+  <img src="https://img.shields.io/badge/java-4E7896?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-68BD45?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF6F00?style=for-the-badge&logo=Aws&logoColor=white">
+  <img src="https://img.shields.io/badge/mySQL-3776AB?style=for-the-badge&logo=Mysql&logoColor=white">
   <br>
+  <img src="https://img.shields.io/badge/Docker-0092E6?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/python3-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 </p>
