@@ -17,7 +17,7 @@
 
 <h3>Activity</h3>
 <ul>
-  <li>2022. 4. ~ 2022. 9. Aiffel deep learning bootcamp</li>
+  <li>2022. 4. ~ 2022. 9. Aiffel deep learning CV project</li>
   <li>2022. 5. ~ 2022. 6. Datathon OTT data analysis, team(3) project </li>
   <li>2022. 8. ~ 2022. 9. Aiffelthon, using StyleGan2, prediction model</li>
   <li>2022. 9. ~ 2022. 10. KW AI Hackathon 2nd prize, team(3) project</li>
