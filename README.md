@@ -5,14 +5,14 @@
 
 <p>
   <h3>My stack</h3>
-  <img src="https://img.shields.io/badge/java-4E7896?style=flat&logo=Java&logoColor=white" height=32px>
-  <img src="https://img.shields.io/badge/Spring-68BD45?style=flat&logo=spring&logoColor=white" height=32px>
-  <img src="https://img.shields.io/badge/AWS-FF6F00?style=flat&logo=amazonaws&logoColor=white" height=32px>
-  <img src="https://img.shields.io/badge/mySQL-3776AB?style=flat&logo=Mysql&logoColor=white" height=32px>
+  <img src="https://img.shields.io/badge/java-4E7896?style=for-the-badge&logo=Java&logoColor=white" height=26px>
+  <img src="https://img.shields.io/badge/Spring-68BD45?style=for-the-badge&logo=spring&logoColor=white" height=26px>
+  <img src="https://img.shields.io/badge/AWS-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white" height=26px>
+  <img src="https://img.shields.io/badge/mySQL-3776AB?style=for-the-badge&logo=Mysql&logoColor=white" height=26px>
   <br>
-  <img src="https://img.shields.io/badge/Docker-0092E6?style=flat&logo=Docker&logoColor=white" height=32px>
-  <img src="https://img.shields.io/badge/python3-3776AB?style=flat&logo=Python&logoColor=white" height=32px>  
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white" height=32px>
+  <img src="https://img.shields.io/badge/Docker-0092E6?style=for-the-badge&logo=Docker&logoColor=white" height=26px>
+  <img src="https://img.shields.io/badge/python3-3776AB?style=for-the-badge&logo=Python&logoColor=white" height=26px>  
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white" height=26px>
 </p>
 
 <h3>Activity</h3>
@@ -28,5 +28,5 @@
 
 <div>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jujemu&show_icons=true&theme=darks">
+  <img src="https://github-readme-stats.vercel.app/api?username=jujemu&show_icons=true&theme=onedark">
 </div>
