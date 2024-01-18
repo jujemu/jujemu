@@ -9,10 +9,6 @@
   <img src="https://img.shields.io/badge/Spring-68BD45?style=for-the-badge&logo=spring&logoColor=white" height=26px>
   <img src="https://img.shields.io/badge/AWS-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white" height=26px>
   <img src="https://img.shields.io/badge/mySQL-3776AB?style=for-the-badge&logo=Mysql&logoColor=white" height=26px>
-  <br>
-  <img src="https://img.shields.io/badge/Docker-0092E6?style=for-the-badge&logo=Docker&logoColor=white" height=26px>
-  <img src="https://img.shields.io/badge/python3-3776AB?style=for-the-badge&logo=Python&logoColor=white" height=26px>  
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white" height=26px>
 </p>
 
 <h3>Activity</h3>
