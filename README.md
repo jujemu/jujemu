@@ -25,3 +25,8 @@
   <li>2023. 4. ~ 2023. 11. Web application for a toy project and team mentoring, SOMA 14th</li>
  </ul>
 </div>
+
+<div>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jujemu&show_icons=true&theme=merko">
+</div>
