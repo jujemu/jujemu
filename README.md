@@ -1,7 +1,6 @@
 <div>
 <h3>Tech Blog</h3>
   <a href="https://jujemu.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=for-the-badge&logo=Tistory&logoColor=white"></a>
-  <a href="https://velog.io/@jujemu"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 
 <p>
   <h3>My stack</h3>
