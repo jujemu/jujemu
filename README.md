@@ -5,7 +5,6 @@
 
 <p>
   <h3>My stack</h3>
-  <img src="https://img.shields.io/badge/java-4E7896?style=for-the-badge&logo=Java&logoColor=white" height=26px>
   <img src="https://img.shields.io/badge/Spring-68BD45?style=for-the-badge&logo=spring&logoColor=white" height=26px>
   <img src="https://img.shields.io/badge/AWS-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white" height=26px>
   <img src="https://img.shields.io/badge/mySQL-3776AB?style=for-the-badge&logo=Mysql&logoColor=white" height=26px>
