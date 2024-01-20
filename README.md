@@ -6,7 +6,17 @@
   <h3>My stack</h3>
   <img src="https://img.shields.io/badge/Spring-68BD45?style=for-the-badge&logo=spring&logoColor=white" height=26px>
   <img src="https://img.shields.io/badge/AWS-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white" height=26px>
+  <br>
+  
   <img src="https://img.shields.io/badge/mySQL-3776AB?style=for-the-badge&logo=Mysql&logoColor=white" height=26px>
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height=26px>
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height=26px>
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height=26px>
+  <br>
+
+  <img src="https://img.shields.io/badge/Docker-0092E6?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  
 </p>
 
 <h3>Activity</h3>
@@ -16,7 +26,7 @@
   <li>2022. 8. ~ 2022. 9. Aiffelthon, using StyleGan2, prediction model</li>
   <li>2022. 9. ~ 2022. 10. KW AI Hackathon 2nd prize</li>
   <li>2022. 9. ~ 2022. 12. Capstone, Sound Event Localization and Detection implementaion</li>
-  <li>2023. 4. ~ 2023. 11. Web application for a toy project and team mentoring, SOMA 14th</li>
+  <li>2023. 4. ~ 2023. 11. Web service that facilitates matching for toy projects and team mentoring, SOMA 14th</li>
  </ul>
 </div>
 
