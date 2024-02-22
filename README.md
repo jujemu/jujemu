@@ -16,7 +16,6 @@
 
   <img src="https://img.shields.io/badge/Docker-0092E6?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-    
 </p>
 
 <h3>Activity</h3>
