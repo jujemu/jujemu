@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Spring-68BD45?style=for-the-badge&logo=spring&logoColor=white" height=26px>
   <img src="https://img.shields.io/badge/JUNIT5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height=26px>
   <img src="https://img.shields.io/badge/AWS-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white" height=26px>
-  <br>
+  <br> 
   
   <img src="https://img.shields.io/badge/mySQL-3776AB?style=for-the-badge&logo=Mysql&logoColor=white" height=26px>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height=26px>
