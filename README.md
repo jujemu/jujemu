@@ -21,9 +21,8 @@
 <h3>Activity</h3>
 <ul>
   <li>2022. 4. ~ 2022. 9. ModuLabs Deep Learning; CV, NLP, Generative Model</li>
-  <li>2022. 5. ~ 2022. 6. Datathon OTT data analysis</li>
   <li>2022. 8. ~ 2022. 9. Aiffelthon, using StyleGan2, prediction model</li>
-  <li>2022. 9. ~ 2022. 10. KW AI Hackathon 2nd prize</li>
+  <li>2022. 9. ~ 2022. 10. KW Hackathon 2nd prize</li>
   <li>2022. 9. ~ 2022. 12. Capstone, Sound Event Localization and Detection implementaion</li>
   <li>2023. 4. ~ 2023. 11. Web service that facilitates matching for toy projects and team mentoring, SOMA 14th</li>
  </ul>
